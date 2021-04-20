@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gisela-gariboldi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Phyton     
+- 🌱 I’m currently learning HTML, CSS and JavaScript     
 - 📫 How to reach me gngariboldi@gmail.com
 
 <!---
