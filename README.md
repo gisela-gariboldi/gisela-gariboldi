@@ -5,9 +5,10 @@
 
 - 📫 How to reach me **gngariboldi@gmail.com**
 
-✨ Twitter: https://twitter.com/GGisela_vs
-✨ Instagram: https://instagram.com/giselag.vs
-
+<ul>
+<li>✨ Twitter: https://twitter.com/GGisela_vs</li>
+<li>✨ Instagram: https://instagram.com/giselag.vs</li>
+</ul>
 <!---
 gisela-gariboldi/gisela-gariboldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
