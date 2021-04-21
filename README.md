@@ -1,6 +1,8 @@
+<img src="lenguaje-programacion.jpg">
 - 👋 Hi, I’m @gisela-gariboldi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and JavaScript     
+- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I also have knowledge of Slack, Python and Git
 - 📫 How to reach me gngariboldi@gmail.com
 
 <!---
