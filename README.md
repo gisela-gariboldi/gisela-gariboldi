@@ -1,4 +1,3 @@
-<img src="lenguaje-programacion.jpg">
 - 👋 Hi, I’m @gisela-gariboldi
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML, CSS and JavaScript
