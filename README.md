@@ -5,11 +5,8 @@
 
 - 📫 How to reach me **gngariboldi@gmail.com**
 
-<ul>
- <li>
-  <a href="https://twitter.com/GGisela_vs" title="twitter" target="_blank">Twitter</a></li>
- <li><a href="https://www.instagram.com/giselag.vs/" title="instagram" target="_blank">Instagram</a></li>
-</ul>
+✨ Twitter: https://twitter.com/GGisela_vs
+✨ Instagram: https://instagram.com/giselag.vs
 
 <!---
 gisela-gariboldi/gisela-gariboldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
