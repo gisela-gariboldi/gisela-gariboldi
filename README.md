@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina</h3>
 
 - ✨ I am currently studying at the National Technological University of Buenos Aires. 
-- 🌱 The tools and resources I use to program are HTML5, CSS3, JavaScript, Responsive Desing, Git, Bootstrap, Slack and Python.
+- 🌱 The tools and resources I use to program are HTML5, CSS3, JavaScript, Jquery, Responsive Desing, Git, Bootstrap, Slack and Python.
 
 
 
