@@ -3,6 +3,8 @@
 
 - ✨ I am currently studying at the National Technological University of Buenos Aires. 
 - 🌱 The tools and resources I use to program are HTML5, CSS3, JavaScript, Jquery, Responsive Desing, Git, Bootstrap, Slack and Python.
+- ✨ Along with web development I am in a regional e-commerce project.
+- 💻 Soon I will be uploading some of my first projects as a front-end developer.
 
 
 
