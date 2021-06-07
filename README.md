@@ -3,7 +3,8 @@
 
 - ✨ I am currently studying at the National Technological University of Buenos Aires. 
 - 🌱 The tools and resources I use to program are HTML5, CSS3, JavaScript, Jquery, Lightbox, Responsive Desing, Git, Bootstrap, Slack and Python.
-- 💻 This year and after an important change, I started working in the e-commerce area of a company in my city.
+- 👨‍💻 I am also doing a course on mobile app development.
+- 💻 This year and after an important change, I started working in the e-commerce area of a company.
 
 <!---
 gisela-gariboldi/gisela-gariboldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
