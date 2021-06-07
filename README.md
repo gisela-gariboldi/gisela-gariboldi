@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gisela</h1>
 <h3 align="center">A passionate frontend developer from Córdoba, Argentina</h3>
 
-- ✨ I am currently studying at the National Technological University of Buenos Aires. 
-- 🌱 The tools and resources I use to program are HTML5, CSS3, JavaScript, Jquery, Lightbox, Responsive Desing, Git, Bootstrap, Slack and Python.
+- ✨ I am currently studying at the National Technological University of Buenos Aires.
 - 👨‍💻 I am also doing a course on mobile app development.
+- 🌱 The tools and resources I use to program are HTML5, CSS3, JavaScript, Jquery, Lightbox, Responsive Desing, Git, Bootstrap, Slack and Python.
 - 💻 This year and after an important change, I started working in the e-commerce area of a company.
 
 <!---
