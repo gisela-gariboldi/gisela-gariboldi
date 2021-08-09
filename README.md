@@ -2,7 +2,7 @@
 <h3 align="center">Front-end dev in progress from Córdoba, Argentina</h3>
 
 - ✨ Actualmente estudio en la UTN de Buenos Aires.
-- 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, Jquery, Lightbox, Responsive Desing, VSCode, Git, Bootstrap, Slack y Python.
+- 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, Jquery, Lightbox, Responsive Desing, VSCode, Git, Bootstrap, Wordpress/Woo-commerce, Slack y Python.
 - 💻 Este año y luego de un cambio importante, comencé a trabajar en el área de comercio electrónico de una empresa.
 - ✨ También me interesa, el desarrollo de aplicaciones móviles, tanto en Android como iOS.
 
