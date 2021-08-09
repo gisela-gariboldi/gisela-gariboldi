@@ -4,7 +4,7 @@
 - ✨ Actualmente estudio en la UTN de Buenos Aires y en la CAMECE de Córdoba.
 - 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, Jquery, Lightbox, Responsive Desing, VSCode, Git, Bootstrap, Wordpress/Woo-commerce, Slack y Python.
 - 💻 Este año y luego de un cambio importante, comencé a trabajar en el área de E-commerce de una empresa.
-- ✨ También me interesa, el desarrollo de aplicaciones móviles, tanto en Android como iOS.
+- ✨ También me interesa el desarrollo de aplicaciones móviles, tanto en Android como iOS.
 
 <!---
 gisela-gariboldi/gisela-gariboldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
