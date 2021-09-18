@@ -2,7 +2,7 @@
 <h3 align="center">Front-end dev in progress from Córdoba, Argentina</h3>
 
 - ✨ Recientemente finalicé mis estudios como desarrolladora web en la UTN-FRBA.
-- 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, Jquery, Lightbox, React JS, Responsive Desing, Visual Studio Code, Git, Bootstrap, Wordpress, WooCommerce.
+- 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, Jquery, Lightbox, React JS, Responsive Desing, Visual Studio Code, Git, Bootstrap, Wordpress y WooCommerce.
 - 💻 Este año y luego de un cambio importante, comencé a trabajar en el área de E-commerce de una empresa.
 - ✨ También me interesa el desarrollo de aplicaciones móviles, tanto en Android como iOS.
 
