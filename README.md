@@ -3,8 +3,6 @@
 
 - ✨ Me encuentro incursionando en el mundo del desarrollo web y soy una apasionada por la tecnología.
 - 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, jQuery, Lightbox, React JS, Responsive Desing, Visual Studio Code, Git, Bootstrap, Wordpress y WooCommerce.
-- 💻 Trabajo en el área de E-commerce de una empresa.
-- ✨ Estoy en constante aprendizaje de nuevas tecnologías.
 
 <!---
 gisela-gariboldi/gisela-gariboldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
