@@ -2,7 +2,7 @@
 <h3 align="center">Front-End dev in progress from Córdoba, Argentina</h3>
 
 - ✨ Me encuentro incursionando en el mundo del desarrollo web y soy una apasionada por la tecnología.
-- 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, jQuery, Lightbox, React JS, Responsive Desing, Visual Studio Code, Git, Bootstrap, Wordpress y WooCommerce.
+- 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, jQuery, Lightbox, React JS, Responsive Desing, DOM, Visual Studio Code, Git, Bootstrap, Wordpress y WooCommerce.
 
 <!---
 gisela-gariboldi/gisela-gariboldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
