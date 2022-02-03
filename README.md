@@ -1,3 +1,8 @@
+<style>
+  body {
+  background-image: https://www.mdzol.com/u/fotografias/m/2020/7/6/f608x342-59723_89446_15.jpg;
+  }
+</style>
 <h1 align="center">Hi 👋, I'm Gisela</h1>
 <h3 align="center">Soy una desarrolladora Front End Junior de Córdoba, Argentina ❤️</h3>
 
