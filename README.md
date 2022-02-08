@@ -1,8 +1,6 @@
 ![giselagariboldidesarrolloweb](https://user-images.githubusercontent.com/82735807/153033725-e2cb9219-3999-410a-8eb1-44a68fce30e1.png)
 
 
-
-
 <h1 align="center">Hi 👋, I'm Gisela</h1>
 <h3 align="center">Soy una desarrolladora Front End Junior de Córdoba, Argentina ❤️</h3>
 
