@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gisela</h1>
+<h1 align="center">Hola 👋, soy Gisela</h1>
 <h3 align="center">Soy una desarrolladora Front End Junior de Córdoba, Argentina ❤️</h3>
 
 - ✨ Me encuentro incursionando en el mundo del desarrollo web y soy una apasionada por la tecnología.
