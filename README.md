@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Roboto+Condensed:wght@300&family=Schoolbell&display=swap');
 <h1 align="center">Hola 👋, soy Gisela</h1>
 <h3 align="center">Soy una desarrolladora Front End Junior de Córdoba, Argentina ❤️</h3>
 
