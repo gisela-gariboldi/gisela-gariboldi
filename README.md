@@ -2,7 +2,7 @@
 <h3 align="center">Soy una desarrolladora Front End Junior de Córdoba, Argentina ❤️</h3>
 
 - ✨ Me encuentro incursionando en el mundo del desarrollo web y soy una apasionada por la tecnología.
-- 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, jQuery, Lightbox, React JS, Node JS, Responsive Desing, DOM, Visual Studio Code, Git, Bootstrap, Wordpress y WooCommerce.
+- 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, jQuery, Lightbox, React JS, Node JS, Responsive Desing, DOM, Visual Studio Code, Git, Bootstrap y Wordpress.
 
 ![giselagariboldidesarrolloweb](https://user-images.githubusercontent.com/82735807/153033725-e2cb9219-3999-410a-8eb1-44a68fce30e1.png)
 
