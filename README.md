@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Gisela</h1>
-<h3 align="center">Soy desarrolladora Front End Junior de Córdoba, Argentina ❤️</h3>
+<h3 align="center">Soy desarrolladora Front End junior de Córdoba, Argentina ❤️</h3>
 
 - ✨ Me encuentro incursionando en el mundo del desarrollo web y soy una apasionada por la tecnología.
 - 👨‍💻 Las herramientas y recursos que utilizo para programar son: HTML5, CSS3, JavaScript, Bootstrap, Sass, jQuery, Lightbox, React js, npm, Responsive Desing, DOM, Visual Studio Code, Git y Wordpress.
