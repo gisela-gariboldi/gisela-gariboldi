@@ -1,7 +1,7 @@
 <h1 align="center">Hello World 👋 soy Gisela</h1>
 <h3 align="center">Soy desarrolladora Front End junior de Córdoba, Argentina ❤️</h3>
 
-<p>- ✨👩🏻‍💻 Poder crear cosas desde cero simples o complejas usando todo tipo de tecnologías, es lo que más me apasiona de la programación y he decidido incursionar en el mundo del desarrollo web adaptando mi experiencia laboral previa al sector IT con motivación y autoaprendizaje. <br>
+<p>- ✨👩🏻‍💻 Poder crear cosas desde cero, simples o complejas usando todo tipo de tecnologías es lo que más me apasiona de la programación y he decidido incursionar en el mundo del desarrollo web adaptando mi experiencia laboral previa al sector IT con motivación y autoaprendizaje. <br>
 - 📚 Actualmente sigo ampliando conocimientos de manera autodidacta en: JavaScript, Sass y React js. <br>
 - 📷 Mi hobby favorito es la fotografía urbana. </p>
 
